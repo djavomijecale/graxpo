@@ -1,0 +1,47 @@
+
+
+
+@media(min-width:576px){
+    
+    
+    
+    
+    
+    
+}
+
+
+@media(min-width:768px){
+    
+    
+    
+    
+    
+}
+
+
+@media(min-width:992px){
+    
+   
+    
+    
+}
+
+
+
+
+
+@media(min-width:1200px){
+    
+    .navbar-brand{margin-left: 100px;}
+    .navbar-nav{margin-right:173px }
+    .nav-item{padding: 0px 10px}
+    .hello .lead{padding-bottom: 243px}
+    .hello h1{padding-top: 300px}
+    .hello{margin-bottom: 114px}
+    
+
+    
+    
+    
+}
