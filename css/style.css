@@ -22,6 +22,7 @@ header{background: transparent;padding: 20px 0}
         
     
 }
+h3{font-size: 20px;color: #333B46;padding-top: 52px}
 .about article p{color:#81868E;margin-top: 39px;margin-bottom: 47px;}
 .line-center:after{margin: 24px auto;}
 .what-we h3{font-size: 20px;padding-top: 52px}
@@ -33,6 +34,20 @@ header{background: transparent;padding: 20px 0}
 .what-we-item:hover h3{color:#FFFFFF }
 .what-we-item:hover p{color:#FFFFFF }
 .what-we-item:hover .line:after{background:#FFFFFF }
+.numbers{background: no-repeat}
+.numbers{background-size: cover}
+.numbers .number-item span{color: #FFFFFF;font-size: 40px;display: inline-block;margin-right: 10px;}
+.number-item div{color: #FFFFFF;font-size: 2.15rem;margin-bottom: 31px;}
+.number-item p{color: #FFFFFF;font-size: 1.2rem; }
+.number-item .line:after{background:#FFFFFF }
+.crew p{font-family: 'Open Sans', sans-serif;color: #81868E;}
+.hover{bottom:5%; background: #E84C3D;width: 90%;left:5%;display: none;}
+.hover p{font-size: 11px;color: #FFFFFF;font-weight: 300;}
+.hover a{border:1px solid #fff;width: 30px;height: 30px;line-height: 30px;border-radius: 50%;color: #FFFFFF;text-decoration: none;}
+.hover .social{margin-bottom: 10px}
+.crew figure:hover .hover{display: block}
+.crew .crew-item h4{font-size: 1.2rem;color: #333B46;font-weight: 500}
+.crew .crew-item p{font-size: 0.8rem;font-weight: 400;}
 
 
 
