@@ -47,7 +47,24 @@ h3{font-size: 20px;color: #333B46;padding-top: 52px}
 .hover .social{margin-bottom: 10px}
 .crew figure:hover .hover{display: block}
 .crew .crew-item h4{font-size: 1.2rem;color: #333B46;font-weight: 500}
-.crew .crew-item p{font-size: 0.8rem;font-weight: 400}
+.crew .crew-item p{font-size: 0.8rem;font-weight: 400;font-family: 'Open Sans'}
+.subscribe h3{color: #FFFFFF;font-size: 1.2rem}
+.subscribe p{font-size: 0.9rem;font-family: 'Open Sans';}
+.subscribe .line:after{background-color: #fff}
+.subscribe input{background: transparent;border-radius: 0px;border-color: #fff;}
+.subscribe .btn{border-radius: 0px;font-size: 0.8rem}
+.subscribe input::placeholder{color:#fff;font-size: 0.8rem}
+.contact aside a{color: #81868E;text-decoration: none;}
+.contact aside a span,.contact div span{color: #E84C3D;font-size: 30px}
+.contact p{font-family: 'Open Sans';color: #81868E;}
+.contact input{border-color: #EBEBEB}
+.contact textarea{border-color: #EBEBEB;resize: none;}
+.contact input::placeholder{color: #81868E;font-size: 0.8rem}
+.contact textarea::placeholder{color: #81868E;font-size: 0.8rem}
+.contact .btn-lg{background-color:#E84C3D;font-size: 1rem;color: #fff;padding: 10px 70px;border-radius: 0px;box-shadow: none;border:none; }
+footer{background: #E84C3D;}
+footer p{margin: 0;padding: 30px 0px;color: #FFFFFF;font-family: 'Open Sans';font-size: 1rem}
+
 
 
 
